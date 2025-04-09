@@ -1,5 +1,3 @@
-<img align="center" alt="hacker" width="400" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Python+Keylogger+%F0%9F%94%91;Educational+purpose+only" alt="Typing SVG" />
 </h1>
