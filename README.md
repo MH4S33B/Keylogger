@@ -19,7 +19,7 @@
 
  ```
 # 1. Clone the repo
-git clone https://github.com/MH4S33B/keylogger.git
+git clone https://github.com/MH4S33B/Keylogger.git
 cd keylogger
 
 # 2. Install dependencies
