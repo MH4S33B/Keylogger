@@ -12,6 +12,9 @@
 - ✅ Cross-platform: Windows, macOS, Linux
 - ✅ Beginner-friendly and easy to customize
 
+📖 Also Read it at <a href="[https://medium.com/@hosopunk5](https://mh4s33b.medium.com/exploring-a-simple-python-keylogger-168d7496bc22)" target="_blank">
+    <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=12100E" alt="Medium"/>
+  </a>
 
 ## ⚙️ Setup
 
